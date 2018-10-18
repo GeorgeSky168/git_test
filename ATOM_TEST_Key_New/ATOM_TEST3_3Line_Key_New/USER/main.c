@@ -5,6 +5,7 @@
 #include "beep.h"
 
 #include "key.h"
+//按键处理API
  
 u8 Flag300ms=0;//300ms节拍标志
 
