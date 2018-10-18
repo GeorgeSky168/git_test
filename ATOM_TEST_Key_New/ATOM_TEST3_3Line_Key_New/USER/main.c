@@ -6,6 +6,7 @@
 
 #include "key.h"
 //按键处理API
+//测试github使用方法
  
 u8 Flag300ms=0;//300ms节拍标志
 
